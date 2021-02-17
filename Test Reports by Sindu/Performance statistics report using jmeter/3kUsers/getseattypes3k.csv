@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Dashboard,2993,50175,10654,271041,34123.77,55.296%,11.00376,32.13,5.33,2990.1
+TOTAL,2993,50175,10654,271041,34123.77,55.296%,11.00376,32.13,5.33,2990.1
